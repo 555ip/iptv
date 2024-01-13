@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=364000,RESOLUTION=426x240
+https://puhu-p3.mncdn.com/smil:namuslu_dd_smil.smil/chunklist_b364000.m3u8?st=-OyRN7HvQ-g2Y9Ra9S_9Bg&e=1705191470&r=9
+#EXT-X-STREAM-INF:BANDWIDTH=536000,RESOLUTION=640x360
+https://puhu-p3.mncdn.com/smil:namuslu_dd_smil.smil/chunklist_b536000.m3u8?st=-OyRN7HvQ-g2Y9Ra9S_9Bg&e=1705191470&r=9
+#EXT-X-STREAM-INF:BANDWIDTH=1028000,RESOLUTION=854x480
+https://puhu-p3.mncdn.com/smil:namuslu_dd_smil.smil/chunklist_b1028000.m3u8?st=-OyRN7HvQ-g2Y9Ra9S_9Bg&e=1705191470&r=9
+#EXT-X-STREAM-INF:BANDWIDTH=1660000,RESOLUTION=1280x720
+https://puhu-p3.mncdn.com/smil:namuslu_dd_smil.smil/chunklist_b1660000.m3u8?st=-OyRN7HvQ-g2Y9Ra9S_9Bg&e=1705191470&r=9
+#EXT-X-STREAM-INF:BANDWIDTH=3192000,RESOLUTION=1920x1080
+https://puhu-p3.mncdn.com/smil:namuslu_dd_smil.smil/chunklist_b3192000.m3u8?st=-OyRN7HvQ-g2Y9Ra9S_9Bg&e=1705191470&r=9
