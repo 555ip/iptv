@@ -153,8 +153,6 @@ https://555ip.github.io/iptv/tr/cartoonnetwork.m3u
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", mel
 https://pixeldrain.com/api/file/p4wpSAo4
 
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", vic
-https://s5.martellaro.shop/m6/Fz9bov5KnJAeYwVjZGDhDzk1pzS5YwRjBQOjYxEIDGVkZwZlANd0zxoJSlqTIfoTSlol5mnT9jYUOioTkuqUAwnTIeYzW1rabfp2AbMKWeMJ5vLJAbYaAbo3Ns0xi5vr1
 
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", mel
 https://pixeldrain.com/u/p4wpSAo4
@@ -294,31 +292,23 @@ https://555ip.github.io/Eiga/STJ
 #EXTINF:-8607 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", TrFo1
 https://555ip.github.io/Eiga/TF1
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Transformers 1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers.jpg" group-title="Series; Transformers", Transformers 1
 https://s15.imgmania.org/mh/IUWuoaAzo3WgMKWmYwVjZQphDzk1pzS5YwRjBQOjYxEIDHkGH1ZkH1Zd0zxnJ1aoJShnJRho3Was0xi15vr1
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Transformers 2 Yenilenlerin İntikamı
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-revenge-of-the-fallen.jpg" group-title="Series; Transformers", Transformers 2 Yenilenlerin İntikamı
 https://s15.imagescdns.pics/m1/IUWuoaAzo3WgMKWmYyWyqzIhM2Hho2LhqTuyYxMuoTkyov4lZQN5YwRjBQOjYzE1LJjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi15vr1
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Transformers 3 Ayın Karanlık Yüzü
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-dark-of-the-moon.jpg" group-title="Series; Transformers", Transformers 3 Ayın Karanlık Yüzü
 https://s17.imglink.pro/ma/IUWuoaAzo3WgMKWmYxEupzfhG2LhITuyYx1io24hZwNkZF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5jpz8s0xi17vr1
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Transformers 4 Kayıp Çağ
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-age-of-extinction.jpg" group-title="Series; Transformers", Transformers 4 Kayıp Çağ
 https://s11.imglink.pro/mw/IUWuoaAzo3WgMKWmYxSaMF5iMv5SrUEcozA0nJ9hYwVjZGDhZGN4ZUNhDzkIHzS5YzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Transformers 5 Son Şövalye
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-the-last-knight.jpg" group-title="Series; Transformers", Transformers 5 Son Şövalye
 https://s11.imglink.pro/ma/IUWuoaAzo3WgMKWmYyEbMF5ZLKA0YxghnJqbqP4lZQR3YwRjBQOjYzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr1
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Karanlıklar Ülkesi 1
-https://s6.photogrids.site/mt/IJ5xMKW3o3WfMP4lZQNmYwRjBQOjYzE1LJjd0zxpTuiqT9apzyxpl5mnKEys0xi6vr1
-
-
-
 
 
 
@@ -351,6 +341,9 @@ https://s4.seeshare.pics/m7/ITuyYxuiLzWcqP4lYwRjBQOjYxWfqKWurDd0zxp2Iyp2uupzHhpT
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-the-battle-of-the-five-armies.jpg" group-title="Series; Hobbit", Hobbit 3 Beş Ordunun Savaşı (The Hobbit: The Battle of the Five Armies)
 https://s15.photogrids.site/mw/ITuyYxuiLzWcqP4mYwRjBQOjYxWfqKWurDd0zxpTuiqT9apzyxpl5mnKEys0xi15vr1
 
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Series; ", Karanlıklar Ülkesi 1
+https://s6.photogrids.site/mt/IJ5xMKW3o3WfMP4lZQNmYwRjBQOjYzE1LJjd0zxpTuiqT9apzyxpl5mnKEys0xi6vr1
 
 
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
