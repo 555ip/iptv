@@ -148,6 +148,43 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 
 
+
+
+#EXTINF:-1 tvg-name="Best of Dance TV" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/DTlogo.jpg" group-title="Müzik", Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-name="Deep House District" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/deep-house-district.jpg" group-title="Müzik", Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-name="Techno Warehouse" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/techno-warehouse.jpg" group-title="Müzik", Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-name="Tech House" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="Müzik", Tech House
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-name="House Floor" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/house-floor.jpg" group-title="Müzik", House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-name="MNML" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/deep-tech-minimal.jpg" group-title="Müzik", MNML
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 tvg-name="EDM Mainstage" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/edm-mainstage.jpg" group-title="Müzik", EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 tvg-name="downtempo" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="Müzik", downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+
+#EXTINF:-1 tvg-name="melodic-tech" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/melodic-tech.jpg" group-title="Müzik", melodic-tech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="EN" tvg-id="News_skynews" tvg-logo="https://news.sky.com/resources/icon.svg?v=2" group-title="Haber", SKY News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
 
