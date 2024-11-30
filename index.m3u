@@ -148,6 +148,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 
 
+#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="EN" tvg-id="News_skynews" tvg-logo="https://news.sky.com/resources/icon.svg?v=2" group-title="Haber", SKY News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
+
+
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://www.4kfilmizlesene.xyz/wp-content/uploads/2023/12/706e94ad427db40726e273d974a30401-scaled.jpg" group-title="Film", Rebel Moon – Part One: A Child of Fire
 https://s26.photogrids.site/mq/HzIvMJjhGJ9iov5DLKW0Yx9hMF5OYxAbnJkxYz9zYxMcpzHhZwNlZl5KEHVgERjhZGN4ZUNhESIOGNd0zxpTuiqT9apzyxpl5mnKEys0xi26vr1
 
