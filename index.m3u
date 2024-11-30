@@ -32,6 +32,13 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="Wild Earth" tvg-language="English" tvg-country="EN" tvg-id="Belgesel_wildearth" tvg-logo="https://app.wildearth.tv/themes/custom/wld/wildearth/logo.png" group-title="Belgesel", Wild Earth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
