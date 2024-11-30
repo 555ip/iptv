@@ -185,12 +185,13 @@ https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="EN" tvg-id="News_skynews" tvg-logo="https://i.imgur.com/725xpNY.png" group-title="Haber", SKY News
+#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo="https://i.imgur.com/725xpNY.png" group-title="News", SKY News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
 
+#EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo="https://i.imgur.com/F3W3u9l.png" group-title="News", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-name="BVN" tvg-language="English" tvg-country="EN" tvg-id="News_skynews" tvg-logo="https://www.bvn.tv/wp-content/themes/bvn/assets/img/bvn-logo.png" group-title="Haber", BVN
-https://bvn-fsly.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzMwNjMwMzIsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvXC9kcm1cL2Rhc2hfY2VuY1wvYnZuXC8wXC8wXC8wXC9idm4uaXNtbCIsInZpZXdlciI6InZpZXdlciIsInJpZCI6ImY0NTNkYzgifQ.847JGNh1e8o1ngTAVIJqiDsTFgh54SUahNIuD5R_7yY/live/npo/u_3_4/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
+
 
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://www.4kfilmizlesene.xyz/wp-content/uploads/2023/12/706e94ad427db40726e273d974a30401-scaled.jpg" group-title="Film", Rebel Moon – Part One: A Child of Fire
