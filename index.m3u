@@ -58,6 +58,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_YABANTV" tvg-logo="" group-title="Belgesel",
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w375520076.m3u8?hash=61e1332c09b0b4123888e0a05ee364a2
+
 #EXTINF:-1 tvg-name="Wild Earth" tvg-language="English" tvg-country="EN" tvg-id="Belgesel_wildearth" tvg-logo="https://app.wildearth.tv/themes/custom/wld/wildearth/logo.png" group-title="Belgesel", Wild Earth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 
