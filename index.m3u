@@ -72,10 +72,10 @@ http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo=".//iptv/mov/SKY_News.png" group-title="News", SKY News
+#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo="../iptv/mov/SKY_News.png" group-title="News", SKY News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
 
-#EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo=".//iptv/mov/BBC_News1.png" group-title="News", BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo="..//iptv/mov/BBC_News1.png" group-title="News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
