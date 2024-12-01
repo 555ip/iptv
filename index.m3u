@@ -1,5 +1,6 @@
 #EXTM3U
 
+#************************************** Genel **************************************#
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 
@@ -11,33 +12,6 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png?20211112231659" group-title="Haber",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-
-#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://banner2.cleanpng.com/20180623/qua/aazrgqh6j.webp" group-title="Belgesel",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="Wild Earth" tvg-language="English" tvg-country="EN" tvg-id="Belgesel_wildearth" tvg-logo="https://app.wildearth.tv/themes/custom/wld/wildearth/logo.png" group-title="Belgesel", Wild Earth
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://555ip.github.io/iptv/mov/NOW_TV_TR.png" group-title="Genel", Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
@@ -67,10 +41,53 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 
+
+
+
+
+#************************************** Belgesel **************************************#
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://banner2.cleanpng.com/20180623/qua/aazrgqh6j.webp" group-title="Belgesel",DMax
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wild Earth" tvg-language="English" tvg-country="EN" tvg-id="Belgesel_wildearth" tvg-logo="https://app.wildearth.tv/themes/custom/wld/wildearth/logo.png" group-title="Belgesel", Wild Earth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+
+
+
+
+#************************************** Çocuk **************************************#
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
 
+
+
+
+#************************************** Haber **************************************#
+#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png?20211112231659" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:-1 tvg-name="Ekol TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_EkolTV" tvg-logo="https://ekoltvcomtr.teimg.com/localhost/uploads/2024/07/logo.webp" group-title="Haber", Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
+
+#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTürk" tvg-logo="https://555ip.github.io/iptv/mov/haberturk_logo.png" group-title="Haber", Haber Türk
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=6yffc236b3wo&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://555ip.github.io/iptv/mov/ntv.png" group-title="Müzik", NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?
 
 #EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo="https://555ip.github.io/iptv/mov/SKY_News.png" group-title="News", SKY News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
@@ -80,12 +97,34 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 
 
 
+
+
+#************************************** Economy **************************************#
+#EXTINF:-1 tvg-name="Bloomberg EU" tvg-language="English" tvg-country="UK" tvg-id="Economy_Bloomberg" tvg-logo="https://555ip.github.io/iptv/mov/Bloomberg.png" group-title="Economy", Bloomberg EU
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Economy_Bloomberg" tvg-logo="https://555ip.github.io/iptv/mov/Bloomberg.png" group-title="Economy", Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Economy_Bloomberg" tvg-logo="https://555ip.github.io/iptv/mov/Bloomberg.png" group-title="Economy", Bloomberg Politics US 
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Economy_Bloomberg" tvg-logo="https://555ip.github.io/iptv/mov/Bloomberg.png" group-title="Economy", Bloomberg + US
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+
+
+
+
+
 # * » Spor « * #
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="HT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_HT_Spor" tvg-logo="https://555ip.github.io/iptv/mov/ht_spor.png" group-title="Spor", HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=6yffol6jorb3&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 #EXTINF:-1 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -103,6 +142,8 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+
 
 
 # * » Müzik « * #
@@ -157,9 +198,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 
 
-
-
-
 #EXTINF:-1 tvg-name="Best of Dance TV" tvg-language="" tvg-country="" tvg-id="Muzik_" tvg-logo="https://www.dancetv.net/img/icons/channels/DTlogo.jpg" group-title="Müzik", Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
@@ -202,14 +240,20 @@ https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 #EXTINF:-1 tvg-name="CARAC 1" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_1" tvg-logo="https://555ip.github.io/iptv/mov/Carac1.png" group-title="General", CARAC 1
 https://edge14.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
-#EXTINF:-1 tvg-name="CARAC 2" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_2" tvg-logo="https://i.imgur.com/VdC7laW.png" group-title="General", CARAC 2
+#EXTINF:-1 tvg-name="CARAC 2" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_2" tvg-logo="https://555ip.github.io/iptv/mov/Carac2.png" group-title="General", CARAC 2
 https://edge17.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 
-#EXTINF:-1 tvg-name="CARAC 3" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_3" tvg-logo="https://i.imgur.com/iIp7tbw.png" group-title="General", CARAC 3
+#EXTINF:-1 tvg-name="CARAC 3" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_3" tvg-logo="https://555ip.github.io/iptv/mov/Carac3.png" group-title="General", CARAC 3
 https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 
-#EXTINF:-1 tvg-name="CARAC 4" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_4" tvg-logo="https://i.imgur.com/WE0jBtS.png" group-title="General", CARAC 4
+#EXTINF:-1 tvg-name="CARAC 4" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_4" tvg-logo="https://555ip.github.io/iptv/mov/Carac4.png" group-title="General", CARAC 4
 https://edge11.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+
+
+
+
+
+
 
 
 
@@ -273,50 +317,8 @@ https://s15.photogrids.site/mw/ITuyYxuiLzWcqP4mYwRjBQOjYxWfqKWurDd0zxpTuiqT9apzy
 https://s6.photogrids.site/mt/IJ5xMKW3o3WfMP4lZQNmYwRjBQOjYzE1LJjd0zxpTuiqT9apzyxpl5mnKEys0xi6vr1
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.4kfilmizlesene.xyz/wp-content/uploads/2023/12/706e94ad427db40726e273d974a30401-scaled.jpg" group-title="Film", Rebel Moon – Part One: A Child of Fire
-https://s26.photogrids.site/mq/HzIvMJjhGJ9iov5DLKW0Yx9hMF5OYxAbnJkxYz9zYxMcpzHhZwNlZl5KEHVgERjhZGN4ZUNhESIOGNd0zxpTuiqT9apzyxpl5mnKEys0xi26vr1
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", Rebel Moon
-https://555ip.github.io/iptv/mov/rebelmoon.m3u8
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Çocuk", Cartoon Network
-https://555ip.github.io/iptv/tr/cartoonnetwork.m3u
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", mel
-https://pixeldrain.com/api/file/p4wpSAo4
-
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", mel
-https://pixeldrain.com/u/p4wpSAo4
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="mov", mel
-https://pixeldrain.com/u/p4wpSAo4.mp4
 
 
 
@@ -338,20 +340,7 @@ https://sv1.rovideo.buzz/v/d/tt0104714/tr/1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Cehennem Silahı 4
 https://sv2.rovideo.buzz/v/d/tt0122151/tr/1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Zor Ölüm 1
-https://sv2.rovideo.buzz/v/d/tt0095016/tr/1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Zor Ölüm 2
-https://sv2.rovideo.buzz/v/d/tt0099423/tr/1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Zor Ölüm 3
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Zor Ölüm 4
-https://sv2.rovideo.buzz/v/d/tt0337978/tr/1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Zor Ölüm : Ölmek İçin Güzel Bir Gün
-https://sv1.rovideo.buzz/v/d/tt1606378/tr/1080.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", RED
@@ -435,9 +424,6 @@ https://555ip.github.io/Eiga/sca
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", The Transponder 1
 https://555ip.github.io/Eiga/TT1
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", The Transponder 1 (4K)
-https://555ip.github.io/Eiga/TT1k4
-
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", The Transponder 2
 https://555ip.github.io/Eiga/TT2
 
@@ -447,10 +433,9 @@ https://555ip.github.io/Eiga/3ap
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", Stajyer
 https://555ip.github.io/Eiga/STJ
 
-#EXTINF:-8607 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", TrFo1
-https://555ip.github.io/Eiga/TF1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+
+## https://555ip.github.io/iptv/mov/ ##
