@@ -70,6 +70,16 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
+
+
+#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo="https://i.imgur.com/725xpNY.png" group-title="News", SKY News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
+
+#EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo="https://i.imgur.com/F3W3u9l.png" group-title="News", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+
+
 # * » Spor « * #
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
@@ -185,14 +195,109 @@ https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SKY News" tvg-language="English" tvg-country="UK" tvg-id="News_skynews" tvg-logo="https://i.imgur.com/725xpNY.png" group-title="News", SKY News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_720-30.m3u8
-
-#EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo="https://i.imgur.com/F3W3u9l.png" group-title="News", BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 
 
+#**************************************Switzerland CH**************************************#
+#EXTINF:-1 tvg-name="CARAC 1" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_1" tvg-logo="https://i.imgur.com/HHvoKBb.png" group-title="General", CARAC 1
+https://edge14.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+
+#EXTINF:-1 tvg-name="CARAC 2" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_2" tvg-logo="https://i.imgur.com/VdC7laW.png" group-title="General", CARAC 2
+https://edge17.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-name="CARAC 3" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_3" tvg-logo="https://i.imgur.com/iIp7tbw.png" group-title="General", CARAC 3
+https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-name="CARAC 4" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_4" tvg-logo="https://i.imgur.com/WE0jBtS.png" group-title="General", CARAC 4
+https://edge11.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+
+
+
+#***********************************************************MOVIES***********************************************************#
+
+#**************************************Movies (Matrix)**************************************#
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-matrix.jpg" group-title="Series; Matrix", Matrix 1
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/891
+
+
+
+#**************************************Movies (Transformers)**************************************#
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers.jpg" group-title="Series; Transformers", Transformers 1
+https://s15.imgmania.org/mh/IUWuoaAzo3WgMKWmYwVjZQphDzk1pzS5YwRjBQOjYxEIDHkGH1ZkH1Zd0zxnJ1aoJShnJRho3Was0xi15vr1
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-revenge-of-the-fallen.jpg" group-title="Series; Transformers", Transformers 2 Yenilenlerin İntikamı
+https://s15.imagescdns.pics/m1/IUWuoaAzo3WgMKWmYyWyqzIhM2Hho2LhqTuyYxMuoTkyov4lZQN5YwRjBQOjYzE1LJjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi15vr1
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-dark-of-the-moon.jpg" group-title="Series; Transformers", Transformers 3 Ayın Karanlık Yüzü
+https://s17.imglink.pro/ma/IUWuoaAzo3WgMKWmYxEupzfhG2LhITuyYx1io24hZwNkZF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5jpz8s0xi17vr1
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-age-of-extinction.jpg" group-title="Series; Transformers", Transformers 4 Kayıp Çağ
+https://s11.imglink.pro/mw/IUWuoaAzo3WgMKWmYxSaMF5iMv5SrUEcozA0nJ9hYwVjZGDhZGN4ZUNhDzkIHzS5YzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-the-last-knight.jpg" group-title="Series; Transformers", Transformers 5 Son Şövalye
+https://s11.imglink.pro/ma/IUWuoaAzo3WgMKWmYyEbMF5ZLKA0YxghnJqbqP4lZQR3YwRjBQOjYzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr1
+
+
+
+#**************************************Movies (Jason Bourne)**************************************#
+#EXTINF:7080 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-identity.jpg" group-title="Series; Jason Bourne", 1 Geçmişi Olmayan Adam: The Bourne Identity (The Bourne Identity)
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/881
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-supremacy.jpg" group-title="Series; Jason Bourne", 2 Medusa Darbesi: The Bourne Supremacy (The Bourne Supremacy)
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/882
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-ultimatum.jpg" group-title="Series; Jason Bourne", 3 Son Ultimatom: The Bourne Ultimatum (The Bourne Ultimatum)
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/883
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-legacy.jpg" group-title="Series; Jason Bourne", 4 Bourne’un Mirası: The Bourne Legacy (The Bourne Legacy)
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/884
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/jason-bourne.jpg" group-title="Series; Jason Bourne", 5 Jason Bourne (Jason Bourne)
+https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/885
+
+
+
+
+#**************************************Movies (Hobbit)**************************************#
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-an-unexpected-journey.jpg" group-title="Series; Hobbit", Hobbit 1 Beklenmedik Yolculuk (The Hobbit: An Unexpected Journey)
+https://s11.imageshub.pro/ms/FT9vLzy0YwRhDzIeoTIhoJIxnJfhJJ9fL3IfqJfhITuyYxuiLzWcqP4kYxShYyIhMKujMJA0MJDhFz91pz5yrF4lZQRlYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi11vr1
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-the-desolation-of-smaug.jpg" group-title="Series; Hobbit", Hobbit 2 Smaug’un Çorak Toprakları (The Hobbit: The Desolation of Smaug)
+https://s4.seeshare.pics/m7/ITuyYxuiLzWcqP4lYwRjBQOjYxWfqKWurDd0zxp2Iyp2uupzHhpTywpjs0xi4vr1
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-the-battle-of-the-five-armies.jpg" group-title="Series; Hobbit", Hobbit 3 Beş Ordunun Savaşı (The Hobbit: The Battle of the Five Armies)
+https://s15.photogrids.site/mw/ITuyYxuiLzWcqP4mYwRjBQOjYxWfqKWurDd0zxpTuiqT9apzyxpl5mnKEys0xi15vr1
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Series; ", Karanlıklar Ülkesi 1
+https://s6.photogrids.site/mt/IJ5xMKW3o3WfMP4lZQNmYwRjBQOjYzE1LJjd0zxpTuiqT9apzyxpl5mnKEys0xi6vr1
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://www.4kfilmizlesene.xyz/wp-content/uploads/2023/12/706e94ad427db40726e273d974a30401-scaled.jpg" group-title="Film", Rebel Moon – Part One: A Child of Fire
 https://s26.photogrids.site/mq/HzIvMJjhGJ9iov5DLKW0Yx9hMF5OYxAbnJkxYz9zYxMcpzHhZwNlZl5KEHVgERjhZGN4ZUNhESIOGNd0zxpTuiqT9apzyxpl5mnKEys0xi26vr1
@@ -344,88 +449,6 @@ https://555ip.github.io/Eiga/STJ
 
 #EXTINF:-8607 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ", TrFo1
 https://555ip.github.io/Eiga/TF1
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-matrix.jpg" group-title="Series; Matrix", Matrix 1
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/891
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers.jpg" group-title="Series; Transformers", Transformers 1
-https://s15.imgmania.org/mh/IUWuoaAzo3WgMKWmYwVjZQphDzk1pzS5YwRjBQOjYxEIDHkGH1ZkH1Zd0zxnJ1aoJShnJRho3Was0xi15vr1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-revenge-of-the-fallen.jpg" group-title="Series; Transformers", Transformers 2 Yenilenlerin İntikamı
-https://s15.imagescdns.pics/m1/IUWuoaAzo3WgMKWmYyWyqzIhM2Hho2LhqTuyYxMuoTkyov4lZQN5YwRjBQOjYzE1LJjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi15vr1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-dark-of-the-moon.jpg" group-title="Series; Transformers", Transformers 3 Ayın Karanlık Yüzü
-https://s17.imglink.pro/ma/IUWuoaAzo3WgMKWmYxEupzfhG2LhITuyYx1io24hZwNkZF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5jpz8s0xi17vr1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-age-of-extinction.jpg" group-title="Series; Transformers", Transformers 4 Kayıp Çağ
-https://s11.imglink.pro/mw/IUWuoaAzo3WgMKWmYxSaMF5iMv5SrUEcozA0nJ9hYwVjZGDhZGN4ZUNhDzkIHzS5YzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/transformers-the-last-knight.jpg" group-title="Series; Transformers", Transformers 5 Son Şövalye
-https://s11.imglink.pro/ma/IUWuoaAzo3WgMKWmYyEbMF5ZLKA0YxghnJqbqP4lZQR3YwRjBQOjYzE1LJjd0zxnJ1aoTyhnl5jpz8s0xi11vr1
-
-
-
-
-
-#EXTINF:7080 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-identity.jpg" group-title="Series; Jason Bourne", 1 Geçmişi Olmayan Adam: The Bourne Identity (The Bourne Identity)
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/881
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-supremacy.jpg" group-title="Series; Jason Bourne", 2 Medusa Darbesi: The Bourne Supremacy (The Bourne Supremacy)
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/882
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-ultimatum.jpg" group-title="Series; Jason Bourne", 3 Son Ultimatom: The Bourne Ultimatum (The Bourne Ultimatum)
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/883
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-bourne-legacy.jpg" group-title="Series; Jason Bourne", 4 Bourne’un Mirası: The Bourne Legacy (The Bourne Legacy)
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/884
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/jason-bourne.jpg" group-title="Series; Jason Bourne", 5 Jason Bourne (Jason Bourne)
-https://raw.githubusercontent.com/555ip/Eiga/refs/heads/main/%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%A4/885
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-an-unexpected-journey.jpg" group-title="Series; Hobbit", Hobbit 1 Beklenmedik Yolculuk (The Hobbit: An Unexpected Journey)
-https://s11.imageshub.pro/ms/FT9vLzy0YwRhDzIeoTIhoJIxnJfhJJ9fL3IfqJfhITuyYxuiLzWcqP4kYxShYyIhMKujMJA0MJDhFz91pz5yrF4lZQRlYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi11vr1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-the-desolation-of-smaug.jpg" group-title="Series; Hobbit", Hobbit 2 Smaug’un Çorak Toprakları (The Hobbit: The Desolation of Smaug)
-https://s4.seeshare.pics/m7/ITuyYxuiLzWcqP4lYwRjBQOjYxWfqKWurDd0zxp2Iyp2uupzHhpTywpjs0xi4vr1
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://www.coverwhiz.com/uploads/movies/the-hobbit-the-battle-of-the-five-armies.jpg" group-title="Series; Hobbit", Hobbit 3 Beş Ordunun Savaşı (The Hobbit: The Battle of the Five Armies)
-https://s15.photogrids.site/mw/ITuyYxuiLzWcqP4mYwRjBQOjYxWfqKWurDd0zxpTuiqT9apzyxpl5mnKEys0xi15vr1
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Series; ", Karanlıklar Ülkesi 1
-https://s6.photogrids.site/mt/IJ5xMKW3o3WfMP4lZQNmYwRjBQOjYzE1LJjd0zxpTuiqT9apzyxpl5mnKEys0xi6vr1
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
-
 
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title=" ",
 
