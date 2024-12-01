@@ -199,7 +199,7 @@ https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 
 #**************************************Switzerland CH**************************************#
-#EXTINF:-1 tvg-name="CARAC 1" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_1" tvg-logo="https://i.imgur.com/HHvoKBb.png" group-title="General", CARAC 1
+#EXTINF:-1 tvg-name="CARAC 1" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_1" tvg-logo="https://555ip.github.io/iptv/mov/Carac1.png" group-title="General", CARAC 1
 https://edge14.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
 #EXTINF:-1 tvg-name="CARAC 2" tvg-language="German;French;Italian;Romansh" tvg-country="CH" tvg-id="CARAC_2" tvg-logo="https://i.imgur.com/VdC7laW.png" group-title="General", CARAC 2
