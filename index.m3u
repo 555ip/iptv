@@ -101,6 +101,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="Haber_bbcnews" tvg-logo="https://555ip.github.io/iptv/mov/BBC_News1.png" group-title="News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:-1 tvg-name="CNN Fast" tvg-language="English" tvg-country="UK" tvg-id="Haber_CNN" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-fast-placeholder-1920x1080.png?c=16x9&q=w_250,c_fill" group-title="News", CNN Fast
+https://live-media-cf.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 
 
 
