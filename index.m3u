@@ -104,7 +104,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="CNN Fast" tvg-language="English" tvg-country="UK" tvg-id="Haber_CNN" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-fast-placeholder-1920x1080.png?c=16x9&q=w_250,c_fill" group-title="News", CNN Fast
 https://live-media-cf.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 
-
+#EXTINF:-1 tvg-name="CNN" tvg-language="English" tvg-country="UK" tvg-id="Haber_CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/240px-CNN_International_logo.svg.png" group-title="News", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 
 #************************************** Economy **************************************#
