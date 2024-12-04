@@ -155,6 +155,8 @@ http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1 tvg-name="Bike Channel" tvg-language="Italia" tvg-country="IT" tvg-id="Spor_BIKE" tvg-logo="https://bikechannel.it/themes/custom/bikechannel/images/logo_bike.svg" group-title="Spor",Bike Channel
 https://cdn08.milano.nxmedge.net/bikechannel/video.m3u8
 
+#EXTINF:-1 tvg-name="TVRI Sport" tvg-language="English" tvg-country="IND" tvg-id="Spor_TVRISport" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="Spor",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 
 
