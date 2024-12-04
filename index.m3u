@@ -152,6 +152,9 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 
+#EXTINF:-1 tvg-name="Bike Channel" tvg-language="Italia" tvg-country="IT" tvg-id="Spor_BIKE" tvg-logo="https://bikechannel.it/themes/custom/bikechannel/images/logo_bike.svg" group-title="Spor",Bike Channel
+https://cdn08.milano.nxmedge.net/bikechannel/video.m3u8
+
 
 
 
