@@ -1,4 +1,97 @@
 #EXTM3U
+## Sports ##
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NBA TV
+https://v1.thetvapp.to/hls/NBATV/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NBC Sport
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NBC Sport Boston
+https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NBC Sport Philadelphia
+https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NFL
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8?ap.debug=0&ap.pt=0&ap.sid=563a969f-039c-4f86-999d-0639bf800e88&ap.skip_fallback=0
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NFL RedZone
+https://v1.thetvapp.to/hls/NFLRedZone/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,NHL
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8?ap.debug=0&ap.pt=0&ap.sid=cb55d367-d399-45c4-bc34-db9057cf641e&ap.skip_fallback=0
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Pac 12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Poker Go
+https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8?ap.debug=0&ap.pt=0&ap.sid=2f49b8d2-a56f-4c30-8cbf-33c311960c8b&ap.skip_fallback=0
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Golf Channel
+https://v1.thetvapp.to/hls/GolfChannel/index.m3u8
+
+
+## Music ##
+#EXTINF:-1 tvg-logo=" " group-title="SPA" ,Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="NLD" ,DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENG" ,MTV Live
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Stringray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Stringray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Stringray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+
+## Belgesel ##
+#EXTINF:-1 tvg-logo=" " group-title="Belgesel" ,Nature Time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Wedo Big Stories
+https://weyyak-live.akamaized.net/wedo_big_stories/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Outdoor America
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Paryawaran TV
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Pursuit UP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title=" " ,Waypoint TV
+https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/playlist.m3u8
+
 
 #************************************** Genel **************************************#
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
